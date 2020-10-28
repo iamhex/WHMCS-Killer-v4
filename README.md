@@ -1,7 +1,8 @@
-
+  - Warning: it's for educational purposes only, use at your own risk!
+  
+  
   # WHMCS Killer v4
   - [x] **Coded in Latest php version**
-  - Warning: it's for educational purposes only, use at your own risk!
   
   # Tools
   
